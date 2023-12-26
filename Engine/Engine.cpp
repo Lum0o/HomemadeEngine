@@ -7,5 +7,5 @@ int main()
 {
     App app = App();
     app.Init();
-    return app.update();
+    return app.Run();
 }

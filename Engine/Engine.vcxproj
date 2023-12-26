@@ -136,6 +136,7 @@
     <ClInclude Include="App.h" />
     <ClInclude Include="RenderEngine\RenderEngine.h" />
     <ClInclude Include="Resources\framework.h" />
+    <ClInclude Include="Resources\GameTimer.h" />
     <ClInclude Include="Resources\Resource.h" />
     <ClInclude Include="Resources\targetver.h" />
     <ClInclude Include="Window\Window.h" />
@@ -144,6 +145,7 @@
     <ClCompile Include="App.cpp" />
     <ClCompile Include="Engine.cpp" />
     <ClCompile Include="RenderEngine\RenderEngine.cpp" />
+    <ClCompile Include="Resources\GameTimer.cpp" />
     <ClCompile Include="Window\Window.cpp" />
   </ItemGroup>
   <ItemGroup>
